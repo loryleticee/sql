@@ -1,0 +1,1 @@
+SELECT count(*) AS nbr_student FROM student ;
